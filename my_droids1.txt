@@ -1,0 +1,4 @@
+A-Rescue | L1 | HP: 120/120 | E:100/100 | ARM:4 | ACC:0,90 | W:Laser | XP:40
+S-Longshot | L1 | HP: 85/85 | E:100/100 | ARM:1 | ACC:1,10 | W:Railgun | XP:40
+M-Healix | L1 | HP: 100/100 | E:100/100 | ARM:2 | ACC:0,85 | W:MedKit | XP:40
+Denys | L1 | HP: 160/160 | E:100/100 | ARM:8 | ACC:0,75 | W:Laser | XP:40
